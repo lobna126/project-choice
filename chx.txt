@@ -1,0 +1,7 @@
+*Sujet du projet : e-commerce
+
+*Travail individuel:
+
+Je souhaite travailler seul sur le développement d'une application de chat en temps réel. Ce projet fera partie de 
+la phase de laboratoire, et je vais créer un dépôt de code avec le nom correspondant. J'attends l'accompagnement de
+ l'instructeur pour structurer et avancer efficacement dans cette réalisation.
